@@ -1,0 +1,26 @@
+.redes-link img {
+  width: 3rem;
+  height: 3rem;
+}
+
+.btn-start {
+  width: 100px;
+  height: 50px;
+  font-size: 1.5rem;
+  margin-right: 1.6rem;
+}
+
+.espacio {
+  padding: 1rem;
+}
+
+.description {
+
+  font-size: 1.5rem;
+}
+
+footer img {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0 0.5rem;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" media="(min-width: 767px)" href="tablet.css">
+  <title>Simon Dice</title>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <div>
+        <button id="btnEmpezar" class="btn-start" onclick="empezarJuego()">¡jugar!</button>
+      </div>
+      <nav class="nav-bar">
+        <ul class="redes">
+          <li class="redes-link"><a href="https://www.facebook.com/Daniel%20Suarez" target="_blank"><img
+                src="images/Facebook_White.png" alt=""></a></li>
+          <li class="redes-link"><a href="https://github.com/DanielSuarezDev" target="_blank"><img
+                src="images/Github_White.png" alt=""></a></li>
+          <li class="redes-link"><a href="https://www.instagram.com/DanielSuarezDev/" target="_blank"><img
+                src="images/Instagram_White.png" alt=""></a></li>
+          <li class="redes-link"><a href="https://https//www.linkedin.com/in/daniel-suarez-frontend-developer-64871b160"
+              target="_blank"><img src="images/Linkdin_White.png" alt=""></a></li>
+          <li class="redes-link"><a href="https://twitter.com/DanielSuarezDev" target="_blank"><img
+                src="images/Twitter_White.png" alt=""></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="back">
+    <div class="gameboard">
+      <div id="celeste" class="color celeste left" data-color="celeste"></div>
+      <div id="violeta" class="color violeta right" data-color="violeta"></div>
+      <div id="naranja" class="color naranja left" data-color="naranja"></div>
+      <div id="verde" class="color verde right" data-color="verde"></div>
+    </div>
+  </main>
+  <footer>
+    <div class="description espacio">
+      <img src="images/EJ.jpg" alt="">
+      <p>Un proyecto echo en la escuela de JavaScript</p>
+    </div>
+
+    <p class="description">Hecho con <img src="images/Corazon.png"> by Daniel Suarez Dev </p>
+  </footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
