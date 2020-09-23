@@ -6,7 +6,7 @@ dispositivo, ¿te gusta? dale estrellita :) te dejo el link donde puedes empezar
 </p>
 <p> Link: https://simon-dice-alpha.vercel.app/Index.html </p>
 **Imagen:**
-<img src="https://user-images.githubusercontent.com/65202664/94076023-d9094400-fdc1-11ea-97a3-369f2c1ccdf6.PNG" width="100">
+<img src="https://user-images.githubusercontent.com/65202664/94076023-d9094400-fdc1-11ea-97a3-369f2c1ccdf6.PNG" width="500">
 
 
 **Connect with me:**
