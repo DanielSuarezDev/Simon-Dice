@@ -5,7 +5,7 @@ const naranja = document.getElementById("naranja");
 const verde = document.getElementById("verde");
 const ULTIMO_NIVEL = 10;
 
-/* Swal.fire({
+Swal.fire({
   title: "Bienvenidos al Juego",
   showClass: {
     popup: "animate__animated animate__fadeInDown"
@@ -13,7 +13,7 @@ const ULTIMO_NIVEL = 10;
   hideClass: {
     popup: "animate__animated animate__fadeOutUp"
   }
-}); */
+});
 
 class Juego {
   constructor() {
